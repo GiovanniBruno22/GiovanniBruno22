@@ -4,7 +4,7 @@
 
 ## 🚀 Software Developer | Python Specialist
 
-I’m a software developer with a strong focus on Python, experienced in building, deploying, and maintaining scalable, production-ready applications. I enjoy working across the full development lifecycle, from designing solutions to shipping them in real-world environments.
+I’m a software developer with **6+ years of hands-on professional experience**, specializing in Python and building scalable, production-ready applications. I enjoy working across the full development lifecycle: from designing solutions to shipping them in real-world environments.
 
 ---
 
